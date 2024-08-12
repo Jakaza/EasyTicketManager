@@ -33,7 +33,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/ticket-reservation-system.git
+    git clone https://github.com/Jakaza/EasyTicketManager.git
     ```
 
 2. **Navigate to the Project Directory:**
